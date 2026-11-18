@@ -99,4 +99,20 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 <!---LeetCode Topics End-->
