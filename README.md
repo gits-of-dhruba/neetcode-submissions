@@ -102,10 +102,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -114,5 +116,18 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Binary Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/1448-count-good-nodes-in-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gits-of-dhruba/neetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
